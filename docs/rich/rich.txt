@@ -1,0 +1,37 @@
+    Drawing tools for Data Modeling: 
+      Similar to Visio or Lucidchart (Paid)
+      draw.io is the free version
+      Can be directly linked to Google Drive or One Drive or GitHub
+
+AI Is Really a combination of three areas
+
+    Statistical Machine Learning (Supervised, Unsupervised)
+    Deep Learning (Includes NLP)
+    Reinforcement Learning
+
+Student-Area (oneDrive)
+https://1drv.ms/f/s!BMV_pjE7aFGEp8hBgB0QGuiJ2vmNdg?e=ycp1OtwbVkuds_PHjAW43Q&at=9
+
+
+Object Oriented Programming
+https://python-course.eu/oop/object-oriented-programming.php
+
+--could be useful  for data analisys (not from the classes docs)
+https://docs.nomic.ai/index.html
+
+Rich recommended these 2 sites to help us if we wanted other Python resources outside of Herbert's class:
+RealPython
+1) Python Basics Learning path
+    https://realpython.com/learning-paths/python-basics/TalkPython.fm (do after Python Basics on RealPython.com)
+    
+TalkPython
+2) Data Science 10 Projects (=3.2 hours)
+https://training.talkpython.fm/courses/data-science-jumpstart-with-10-projects
+Login Credentials
+Username: rich.lysakowski@gmail.com
+password: NTAI1234 (edited) 
+
+
+
+https://docs.google.com/document/d/1vk0-WOFkAyzPkRyrVI3JnPzCR-LyV2yzK39XZT1aMvc/edit
+
