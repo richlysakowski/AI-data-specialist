@@ -1,0 +1,117 @@
+class 2/29/2024
+2/29/2024
+11:30 AM 
+Rich
+
+Q: Can you give us access ot the OneDrive Student Area?  I was able to download them to my local drive even though I don't have the paid One Drive Subscription and it exceeds the free 5gb. Looks like you don't need the paid subscription to download the materials to your PC or external drive, just if you want to add them to your one drive. 
+A: You can download it but cannot synchronize it. *shares the OneDrive Student Area* check your Spam folder
+
+Since Copilot can write detailed code for you, we're not aware of what's available
+When you go through training materials, it's not so much for deep understanding as vocabulary, what to ask for
+Have the big picture in mind. Sometimes you can be a little vague on the terminology
+They can tell you the specific term but you need to know what to look for
+
+Rich explains different folders in the OneDrive Student Area
+
+Today Rich wants us to get started with Python3 Bootcamp
+
+Draw.io is important to create a diagram or flowchart (while programming, planning, etc)
+
+Q: Does Visio come with the MS Office packages?
+A: No and it's expensive too
+
+Shared 00-Power Users Skills and Windows Keyboard Shortcuts-Getting-Started-v2024.02.20.yml file
+
+Demos Drawio
+Visuo is good for marking single one page drawings at a time. Rich needed a better tool so there's LucidChart
+Drawio runs the same in Windows, Mac, native desktop application because it was written in Java first 
+You can open Drawio files from anywhere, Googel Drive, OneDrive, DropBox
+LucidChart is a commerical team version of this 
+
+In OneDrive Student Area, the naming scheme for the folders, anything that has to do with Python has a preface of PyCore and go in order chronologically. Explains the PyCore folders
+There's complete multi-hour training videos that you can use with Python
+In 4 weeks, we'll jump into SQL postgres in particular
+Python Pandas is a Python replacement for Excel
+Anything you do with Excel manually you do with Pandas programmatically
+These other folders are application oriented, data apis, webscraping, web security
+When you try to get data online, it's not open, with password protecting it so this is about authenticating it
+
+There are full stack data applications 
+PyData folders
+PyCore folders
+PyCore folders starting with functions is started
+You're welcome to run through as many as you can as fast as possible
+Most important thing is projects
+PyApps folder had too many folders so it's got its own folders
+It has both AI apps and Python apps. It's hard to separate it out.
+AI is a buzzword that everyone's using to describe everything.
+Machine Learning, Deep Learning, and Reinforcement Learning
+It's hard to organize and categorize these things
+There's folders for traditional machine learning.
+Unsupervised Learning - unlabeled data sets
+Natural Language Learning
+Deep Learning - multiple layers of machine learning models, originally used for computer vision (recognizing photos and videos). As it's grown it's been applied to natural language processing and other areas
+You can use Deep Learning to label data in an automated way so that a human doesn't have to go through data manually
+
+Reinforcement Learning is the 3rd Major Branch of AI. Goal directed learning like trying to win a game, a self-directed car. The goal is to stay in the lane and you have set of goals for almost every game, cycles for playing the game, every time you get closer to the goal, the machine learning model learns your progress towards that goal. This branch of Machine learning comes out of mathematics. Not related to machine learning or deep learning. Comes out of areas of research and optimization
+
+There's 3 Areas of AI/Machine Learning we should be familiar with: 
+1. Statistical Machine Learning - Linear regression, the simplest way between 2 points. Programming a model to read in the data between 2 point
+2. Deep Learning
+3. Reinforcement Learning
+
+This includes Natural Language Processing, you could call this the 4th branch but nowadays they're implemented using deep learning methods. Neural networks was the original name. Deep learning. Language is also a sequence.
+
+Q: Of these 3 areas, does it make sense to specialize in one of them because you can't learn everything?
+A: Generative AI is the area to focus on and pick up the other areas
+The ones we're familiar with right now is large language model. A LLM is trying to predict the next sentence in a story or tryign to predict the text from an image with a description.
+
+When you give a prompt to a large language model, you're asking it to generate code. It takes your natural language description of a problem, searches its codebase, finds the right snippets (pieces of code) that satisfy the description. It's predicting the next sequence of code.
+You give it a prompt of what you want to generate, and if it's been trained, it will search it's pre-trained model and try to find the best fit code that matches your description.
+Think of it like a Google Search engine with the whole internet. You search, it goes to the area of your search query and it pulls those pages back for you to browse through
+Generative AI goes a few steps further and goes through those pages like documents to assemble them for you in a particular order to match your prompt. It's retrieving things from what it's already been trained on it, assembling it in a statistical way, using neural networks, reinforcement learning, and returning it
+
+Many documents on the internet have Bias in AI
+OpenAI is a big problem for people because they have bias and bad results.
+They hired a bunch of people to put people in the loop. It wasn't 
+Gender racial bias that was inherent in the training data
+Reinforcement learning with human feedback
+Reinforcement Feedback with Human Feedback
+Better train the responses coming back when you ask for specific things
+Train models so they're much more accurate and training what you want
+
+Q: Does ChatGPT include all of those?
+A: Yes it does, in a way that's optimized for that little chat interface. You're interacting with the large language model in the search bar for GitHub Copilot
+
+it's using __ and reinforment learning together to generate a response. 
+Copilot is trained on all of Wikipedia, all of GitHub to generate the answer to your question
+Linear Regression - you ahve 2 dimensions, x and y, and your'e trying to fit the best fit line. Slope and intercept is the simplest linear model
+natural language processing, every single word is mutli-dimensional data model 
+Translate all fo the words into a vector space
+There's a million different dimensions there
+You'd need a million parameters to describe that data set
+trained on billions of lines of code and trillions of tokens
+You type in a request. It goes into that 15 billion parameter space and it finds words that are close to each other, goes into that area of knowledge space, neighborhood, where the concentration of those terms is the best
+There's dimensions for each word 
+Bigram = two tokens together "How can", "Can I", etc
+There's another layer on top of that
+Just looking at the words you can get really close to the right place in the global parameters space. It gets pretty hairy to think about it
+Go from linear regression to multiple dimensions to get the content that is closest to the query asked for. 
+The more specific the better to assemble it together for you
+Multiple things going on at the same time. 
+Generative AI puts it all together
+
+https://app.diagrams.net/?src=about
+
+Make an offline backup of your OneDrive
+
+I had to leave due to a family
+
+Returned 
+
+On Saturday we have to go through the client server archtecture setup. What's a client? What's a server?
+How running Jupyter notebook in a browser differs from running it inside VSCode
+
+We'll do the Python3 Bootcamp. Then we'll do projects. 
+As a complement to the bootcamp, RealPython.com is about $360/year. Rich plans to go through more of this on Saturday
+There's a specific learning bath Rich recommends us go through: Python Basics: Intro to Python
