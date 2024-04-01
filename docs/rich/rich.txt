@@ -50,7 +50,3 @@ https://www.youtube.com/playlist?list=PLj6YeMhvp2S6HXhdDbtorV78fpKkzT6qa
 GitHub Copilot Series
 https://www.youtube.com/playlist?list=PLj6YeMhvp2S5_hvBl2SE-7YCHYlLQ0bPt
 
-
-20240309
-Setup ..... webscrapers....I dont have the copilot prompt
-PPT about Python 
