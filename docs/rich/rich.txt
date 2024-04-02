@@ -10,8 +10,6 @@ AI Is Really a combination of three areas
     Reinforcement Learning
 
 Student-Area (oneDrive)
-https://1drv.ms/f/s!BMV_pjE7aFGEp8hBgB0QGuiJ2vmNdg?e=ycp1OtwbVkuds_PHjAW43Q&at=9
-
 
 Object Oriented Programming
 https://python-course.eu/oop/object-oriented-programming.php
@@ -27,18 +25,9 @@ RealPython
 TalkPython
 2) Data Science 10 Projects (=3.2 hours)
 https://training.talkpython.fm/courses/data-science-jumpstart-with-10-projects
-Login Credentials
-Username: rich.lysakowski@gmail.com
-password: NTAI1234 (edited) 
-
-
-
-https://docs.google.com/document/d/1vk0-WOFkAyzPkRyrVI3JnPzCR-LyV2yzK39XZT1aMvc/edit
-
 
 Copilot Updates
 https://www.youtube.com/playlist?list=PLj6YeMhvp2S5G24Pf_Y_watKMPbQ-Dnt9
-
 
 Understanding Copilot
 https://www.youtube.com/playlist?list=PLj6YeMhvp2S4iwHQsUcUN1L1jREDq6EvM
